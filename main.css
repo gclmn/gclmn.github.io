@@ -1,20 +1,19 @@
 body,
 html {
   height: 100%;
-  font-size: 20px; /* Change the font size*/
-  font-family: "Roboto", sans-serif; /* Change the font */
-  line-height: 1.5em; /* Change the line height size*/
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5em;
   margin: 0em;
-  color: white; /* Change the font color*/
-  background-color: #0D38D3; /* Change the background color */
+  color: white;
+  background-color: #EDEDE4;
   box-sizing: border-box;
 }
 
 h1 {
   letter-spacing: 5px;
   font-size: 50px;
-  /*TODO: Change the font-family property to your linked font*/
-  font-family: "Roboto Mono", sans-serif;
-  color: #43d6b9ff;
+  font-family: "Montserrat", sans-serif;
+  color: #4E5C51;
   text-align: center;
 }
