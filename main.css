@@ -18,7 +18,11 @@ h1 {
   text-align: center;
 }
 
-.main-text {
+h2 {
+  letter-spacing: 2px;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
   color: #424135;
   margin: 0.2em;
 }
