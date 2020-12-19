@@ -4,7 +4,7 @@ html {
   font-size: 20px;
   font-family: "Montserrat", sans-serif;
   line-height: 1.5em;
-  margin: 0em;
+  margin: 1em;
   color: white;
   background-color: #EDEDE4;
   box-sizing: border-box;
@@ -16,4 +16,9 @@ h1 {
   font-family: "Montserrat", sans-serif;
   color: #4E5C51;
   text-align: center;
+}
+
+p {
+  color: #424135;
+  margin: 0.2em;
 }
