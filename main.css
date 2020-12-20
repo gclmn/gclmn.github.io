@@ -45,6 +45,7 @@ li.nav {
 li.nav2 {
   float: left;
   font-size: 20px;
+  font-variant: bold;
   color: #ECECEC;
   margin: 1em;
 }
