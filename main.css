@@ -39,18 +39,19 @@ ul.nav-bar {
 
 li.nav {
   float: right;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 li.nav2 {
   float: left;
-  font-size: 40px;
+  font-size: 20px;
   color: #ECECEC;
   margin: 1em;
 }
 
 li.nav a {
-  display: block;
+  display: inline-block;
+  vertical-align: middle;
   color: #374255;
   text-align: center;
   padding: 14px 16px;
