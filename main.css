@@ -42,6 +42,12 @@ li.nav {
   font-size: 15px;
 }
 
+li.nav2 {
+  float: left;
+  font-size: 25px;
+  color: #F1E8E3;
+}
+
 li.nav a {
   display: block;
   color: #F1E8E3;
