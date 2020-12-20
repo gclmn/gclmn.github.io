@@ -29,7 +29,7 @@ h2 {
 
 ul.nav-bar {
   list-style-type: none;
-  margin: 0;
+  margin: 1em;
   padding: 0;
   overflow: hidden;
   background-color: #8FAFBC;
