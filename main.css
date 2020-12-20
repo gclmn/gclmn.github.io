@@ -39,12 +39,12 @@ ul.nav-bar {
 
 li.nav {
   float: right;
-  font-size: 15px;
+  font-size: 30px;
 }
 
 li.nav2 {
   float: left;
-  font-size: 75px;
+  font-size: 40px;
   color: #ECECEC;
   margin: 1em;
 }
