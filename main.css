@@ -6,7 +6,7 @@ html {
   line-height: 1.5em;
   margin: 1em;
   color: white;
-  background-color: #353849;
+  background-color: #0F1425;
   box-sizing: border-box;
 }
 
@@ -14,7 +14,7 @@ h1 {
   letter-spacing: 5px;
   font-size: 50px;
   font-family: "Montserrat", sans-serif;
-  color: #B2CDD4;
+  color: #ECECEC;
   text-align: center;
 }
 
@@ -23,7 +23,7 @@ h2 {
   font-size: 20px;
   font-family: "Montserrat", sans-serif;
   text-align: center;
-  color: #F1E8E3;
+  color: #ACBBC6;
   margin: 0.2em;
 }
 
@@ -34,7 +34,7 @@ ul.nav-bar {
   width: 100%;
   box-sizing: content-box;
   overflow: hidden;
-  background-color: #8FAFBC;
+  background-color: #ACBBC6;
 }
 
 li.nav {
@@ -45,13 +45,13 @@ li.nav {
 li.nav2 {
   float: left;
   font-size: 75px;
-  color: #F1E8E3;
+  color: #ECECEC;
   margin: 1em;
 }
 
 li.nav a {
   display: block;
-  color: #F1E8E3;
+  color: #374255;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -60,6 +60,6 @@ li.nav a {
 }
 
 li.nav a:hover {
-  background-color: #F1E8E3;
-  color: #8FAFBC;
+  background-color: #374255;
+  color: #ACBBC6;
 }
