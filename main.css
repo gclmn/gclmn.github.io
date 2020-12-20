@@ -48,6 +48,7 @@ li.nav {
 
 li.nav2 {
   display: inline-block;
+  vertical-align: top;
   float: left;
   font-size: 20px;
   vertical-align: top;
