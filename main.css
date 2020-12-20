@@ -26,3 +26,31 @@ h2 {
   color: #F1E8E3;
   margin: 0.2em;
 }
+
+ul.nav-bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #8FAFBC;
+}
+
+li.nav {
+  float: right;
+  font-size: 15px;
+}
+
+li.nav a {
+  display: block;
+  color: #F1E8E3;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+li.nav a:hover {
+  background-color: #F1E8E3;
+  color: #8FAFBC;
+}
