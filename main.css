@@ -44,8 +44,9 @@ li.nav {
 
 li.nav2 {
   float: left;
-  font-size: 25px;
+  font-size: 75px;
   color: #F1E8E3;
+  margin: 1em;
 }
 
 li.nav a {
