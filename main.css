@@ -45,7 +45,7 @@ li.nav {
 li.nav2 {
   float: left;
   font-size: 20px;
-  font-variant: bold;
+  font-weight: bold;
   display: inline-block;
   vertical-align: top;
   color: #ECECEC;
