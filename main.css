@@ -65,16 +65,12 @@ li.nav a:hover {
   flex-wrap: nowrap;
   justify-content: center;
   align-items: center; 
-  background-color: transparent;
+  background-image: url("bg2.jpg");
   padding: 5px;
   position: absolute;
   left: 20%;
   right: 20%;
   top: 40%; 
-}
-
-.intro {
-  background-image: url("bg2.jpg");
 }
 
 #profile-pic {
