@@ -33,10 +33,9 @@ ul.nav-bar {
   flex-direction: row;
   flex-wrap: nowrap;
   align-items: center;
-  padding: 1em;
-  margin: 0;
   padding: 0;
-  width: 100%;
+  margin: 0;
+  width: 150%;
   box-sizing: border-box;
   overflow: hidden;
   background-color: #ACBBC6;
@@ -51,6 +50,7 @@ li.nav {
 li.nav2 {
   flex-direction: left;
   justify-content: left;
+  font-weight: bold;
   font-size: 20px;
   color: #ECECEC;
 }
