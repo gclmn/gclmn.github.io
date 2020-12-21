@@ -58,3 +58,16 @@ li.nav a:hover {
   text-decoration: underline;
   color: #374255;
 }
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center; 
+  background-color: #374255;
+  padding: 5px;
+  position: absolute;
+  left: 20%;
+  right: 20%;
+  top: 40%; 
