@@ -77,4 +77,5 @@ li.nav a:hover {
   border-style: solid;
   border-color: #374255;
   border-width: 2px;
+  padding: 10px;
 }
