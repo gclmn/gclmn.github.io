@@ -28,7 +28,9 @@ h2 {
 }
 
 .nav-bar {
-  display: table;
+  display: flex;
+  flex-direction: row-reverse;
+  align-content: right;
   list-style-type: none;
   padding: 0;
   margin: 0;
@@ -40,16 +42,7 @@ h2 {
 
 li.nav {
   display: table-cell;
-  text-align: right;
   font-size: 20px;
-}
-
-li.nav2 {
-  display: table-cell;
-  text-align: left;
-  font-weight: bold;
-  font-size: 20px;
-  color: #ECECEC;
 }
 
 li.nav a {
