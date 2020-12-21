@@ -36,7 +36,7 @@ ul.nav-bar {
   width: 100%;
   box-sizing: border-box;
   overflow: hidden;
-  background-color: #ACBBC6;
+  background-color: transparent;
 }
 
 li.nav {
