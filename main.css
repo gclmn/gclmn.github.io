@@ -71,15 +71,3 @@ li.nav a:hover {
   left: 20%;
   right: 20%;
   top: 40%; 
-}
-
-.image-one{
-  position: relative;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-color: #374255;
-  background-size: cover;
-  min-height: 100%; 
-  background-image: url("https://cdn.glitch.com/7af95b27-3d1f-454d-8eb5-8e8812a50f17%2Fclimate%20refugee.jpg?v=1596158049985");
-  background-attachment: fixed;
-}
