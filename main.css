@@ -32,6 +32,7 @@ ul.nav-bar {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
+  height: 2em;
   margin: 0;
   padding: 0;
   width: 100%;
