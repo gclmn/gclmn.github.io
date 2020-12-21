@@ -29,9 +29,7 @@ h2 {
 
 ul.nav-bar {
   list-style-type: none;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
+  display: block;
   align-items: center;
   padding: 0;
   margin: 0;
@@ -42,14 +40,12 @@ ul.nav-bar {
 }
 
 li.nav {
-  flex-direction: right;
-  justify-content: right;
+  align-content: right;
   font-size: 20px;
 }
 
 li.nav2 {
-  flex-direction: left;
-  justify-content: left;
+  align-content: left;
   font-weight: bold;
   font-size: 20px;
   color: #ECECEC;
