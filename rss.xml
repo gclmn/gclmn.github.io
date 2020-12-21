@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<rss version="2.0">
+  <channel>
+    <title>CLMN</title>
+    <link>http://gclmn.github.io</link>
+    <description />
+    <item>
+      <guid>http://gclmn.github.io/</guid>
+      <title>CLMN</title>
+      <link>http://gclmn.github.io/</link>
+      <description />
+    </item>
+    <item>
+      <guid>http://gclmn.github.io/index.html</guid>
+      <title>CLMN</title>
+      <link>http://gclmn.github.io/index.html</link>
+      <description />
+    </item>
+    <item>
+      <guid>http://gclmn.github.io/classics.html</guid>
+      <title>Classics</title>
+      <link>http://gclmn.github.io/classics.html</link>
+      <description />
+    </item>
+    <item>
+      <guid>http://gclmn.github.io/philnotes.html</guid>
+      <title>Philosophy</title>
+      <link>http://gclmn.github.io/philnotes.html</link>
+      <description />
+    </item>
+    <item>
+      <guid>http://gclmn.github.io/nonfiction.html</guid>
+      <title>Non-Fiction</title>
+      <link>http://gclmn.github.io/nonfiction.html</link>
+      <description />
+    </item>
+  </channel>
+</rss>
+<!--<guid value="10acc14a-a105-42e9-a4b5-65f9d6d764bb" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
