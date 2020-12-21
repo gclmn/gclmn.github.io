@@ -32,7 +32,8 @@ ul.nav-bar {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  height: 10em;
+  align-items: center;
+  height: 4em;
   margin: 0;
   padding: 0;
   width: 100%;
@@ -42,12 +43,12 @@ ul.nav-bar {
 }
 
 li.nav {
-  align-content: right;
+  justify-content: right;
   font-size: 20px;
 }
 
 li.nav2 {
-  align-content: left;
+  justify-content: left;
   font-size: 40px;
   color: #ECECEC;
 }
