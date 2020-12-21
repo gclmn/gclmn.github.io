@@ -73,7 +73,11 @@ li.nav a:hover {
   top: 40%; 
 }
 
-#profile-pic{
+.intro {
+  background-image: url("bg2.jpg");
+}
+
+#profile-pic {
   border-style: solid;
   border-color: #374255;
   border-width: 2px;
