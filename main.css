@@ -29,8 +29,6 @@ h2 {
 
 ul.nav-bar {
   list-style-type: none;
-  display: block;
-  align-items: center;
   padding: 0;
   margin: 0;
   width: 100%;
@@ -40,11 +38,13 @@ ul.nav-bar {
 }
 
 li.nav {
+  display: inline-block;
   align-content: right;
   font-size: 20px;
 }
 
 li.nav2 {
+  display: inline-block;
   align-content: left;
   font-weight: bold;
   font-size: 20px;
