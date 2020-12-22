@@ -11,7 +11,7 @@ html {
 
 body {
   background-image: url("Moses_mountain_-_Saint_Catherine.jpg") !important; 
-  background-size: cover;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
