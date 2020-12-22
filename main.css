@@ -7,7 +7,7 @@ html {
   margin: 1em;
   color: white;
   box-sizing: content-box;
-  background: url("Moses_mountain_-_Saint_Catherine.jpg"); 
+  background-image: url("Moses_mountain_-_Saint_Catherine.jpg"); 
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
