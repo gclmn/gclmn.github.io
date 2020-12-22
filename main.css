@@ -6,9 +6,8 @@ html {
   line-height: 1.5em;
   margin: 1em;
   color: white;
-  background-image: url("Moses_mountain_-_Saint_Catherine.jpg") no-repeat;
+  background-image: url("Moses_mountain_-_Saint_Catherine.jpg");
   box-sizing: border-box;
-  background-size: cover;
 }
 
 h1 {
