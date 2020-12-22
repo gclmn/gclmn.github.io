@@ -37,7 +37,7 @@ h2 {
   width: 100%;
   box-sizing: border-box;
   overflow: hidden;
-  background-color: transparent;
+  background-image: url("bg2.jpg");
 }
 
 li.nav {
@@ -64,8 +64,8 @@ li.nav a:hover {
   flex-direction: row-reverse;
   flex-wrap: nowrap;
   justify-content: center;
+  background-color: #8FAFBC;
   align-items: center; 
-  background-image: url("bg2.jpg");
   padding: 5px;
   position: absolute;
   left: 20%;
