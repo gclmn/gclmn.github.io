@@ -6,14 +6,12 @@ html {
   line-height: 1.5em;
   margin: 1em;
   color: white;
-  background-color: white;
   box-sizing: content-box;
   background: url("Moses_mountain_-_Saint_Catherine.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  align-items: left;
 }
 
 h1 {
