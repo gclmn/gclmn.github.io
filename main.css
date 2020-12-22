@@ -8,12 +8,6 @@ html {
   color: white;
   background-image: url("Moses_mountain_-_Saint_Catherine.jpg");
   box-sizing: content-box;
-}
-
-.bg-pic {
-  width: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
 }
 
