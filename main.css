@@ -10,12 +10,12 @@ html {
 }
 
 body {
-  background-image: url("Moses_mountain_-_Saint_Catherine.jpg"); 
+  background-image: url("Moses_mountain_-_Saint_Catherine.jpg") cover fixed; 
 }
 
 h1 {
   letter-spacing: 5px;
-  font-size: 50px;
+  font-size: 30px;
   font-family: 'Bebas Neue', cursive;
   color: #ECECEC;
   text-align: center;
