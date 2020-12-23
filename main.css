@@ -31,13 +31,14 @@ h2 {
   margin: 0.2em;
 }
 
-.flex-container {
+.main-intro {
   display: flex;
   flex-direction: row-reverse;
   flex-wrap: nowrap;
   justify-content: center;
   background-color: #374255;
-  align-items: center; 
+  align-items: left; 
+  height: 100%;
   padding: 5px;
   position: absolute;
   left: 20%;
