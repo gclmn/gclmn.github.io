@@ -10,7 +10,8 @@ html {
 }
 
 body {
-  background-image: url("Moses_mountain_-_Saint_Catherine.jpg") cover fixed; 
+  background-image: url("Moses_mountain_-_Saint_Catherine.jpg");
+  background-size: cover; 
 }
 
 h1 {
