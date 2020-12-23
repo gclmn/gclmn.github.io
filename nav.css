@@ -12,7 +12,7 @@ body,
   background-color: transparent;
   letter-spacing: 5px;
   font-size: 20px;
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Karla', sans-serif;
   color: #374255;
   text-align: center;
   margin: 10px;
@@ -21,7 +21,7 @@ body,
 .dropbtn-nf {
   letter-spacing: 5px;
   font-size: 20px;
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Karla', sans-serif;
   color: #374255;
   text-align: center;
   margin: 10px;
@@ -47,7 +47,7 @@ body,
 .dropbtn-c {
   letter-spacing: 5px;
   font-size: 20px;
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Karla', sans-serif;
   color: #374255;
   text-align: center;
   margin: 10px;
@@ -73,7 +73,7 @@ body,
 .dropbtn-p {
   letter-spacing: 5px;
   font-size: 20px;
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Karla', sans-serif;
   color: #374255;
   text-align: center;
   margin: 10px;
