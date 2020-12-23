@@ -48,6 +48,10 @@ li.nav {
   font-size: 15px;
 }
 
+.dropdown-cont a:hover {
+  text-decoration: underline;
+}
+
 li.nav a {
   color: #374255;
   text-align: center;
@@ -61,6 +65,8 @@ li.nav a:hover {
   text-decoration: underline;
   color: #374255;
 }
+
+.nav:hover .dropdown-cont {display: block;}
 
 .flex-container {
   display: flex;
