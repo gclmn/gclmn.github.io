@@ -28,11 +28,29 @@ h1 {
 }
 
 #about-me {
-  width: 200px;
-  right: 200px;
+  width: 250px;
+  right: 250px;
   margin-left: -100%;
   padding: 50px;
   background-color: #31302A;
+  border-left: 10px solid #31302A;
+  border-top: 20px solid #31302A;
+  border-right: 10px solid #7AA09A;
+}
+
+#about-me p {
+  font-size: 10px;
+  font-family: 'Karla', sans-serif;
+  color: #F2EEDD;
+}
+
+
+#profile-pic {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  padding: 0;
+  margin: 20px;
 }
 
 #main-intro {
@@ -58,12 +76,4 @@ h1 {
   border-style: solid;
   border-color: black;
   border-width: 1px;
-}
-
-#profile-pic {
-  border-style: solid;
-  border-color: black;
-  border-width: 1px;
-  padding: 0;
-  margin: 20px;
 }*/
