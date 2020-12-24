@@ -1,46 +1,52 @@
 body,
 html {
-  height: 100%;
   font-size: 20px;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Karla', sans-serif;
   line-height: 1.5em;
   margin: 1em;
   color: white;
   box-sizing: content-box;
-}
-
-body {
-  background-image: url("Moses_mountain_-_Saint_Catherine.jpg");
-  background-size: cover; 
+  background-color: #F2EEDD;
 }
 
 h1 {
   letter-spacing: 2px;
   font-size: 30px;
   font-family: 'Karla', sans-serif;
-  color: #ECECEC;
+  color: #31302A;
   text-align: center;
 }
 
-h2 {
-  letter-spacing: 2px;
-  font-size: 20px;
-  font-family: "Montserrat", sans-serif;
-  text-align: center;
-  color: #dfe4e7;
-  margin: 0.2em;
+#intro {
+  padding-left: 200px;
+  padding-right: 400px;
 }
 
-.main-intro {
-  display: flex;
-  flex-direction: row-reverse;
-  flex-wrap: nowrap;
-  justify-content: center;
-  background-color: #374255;
-  align-items: left; 
+#intro .column {
+  position: relative;
+  float: left;
+}
+
+#about-me {
+  width: 200px;
+  right: 200px;
+  margin-left: -100%;
+}
+
+#main-intro {
+  width: 400px;
+  margin-right: -400px;
+}
+
+
+
+/*.column {
+  display: table-cell;
+  background-color: #31302A;
+  align-items: right; 
   height: 100%;
+  width: 80%;
   padding: 5px;
-  position: absolute;
   left: 20%;
   right: 20%;
   top: 40%; 
@@ -55,4 +61,4 @@ h2 {
   border-width: 1px;
   padding: 0;
   margin: 20px;
-}
+}*/
