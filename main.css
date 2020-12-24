@@ -27,7 +27,7 @@ h1 {
 
 #intro .column {
   position: relative;
-  float: left;
+  float: center;
 }
 
 #about-me {
