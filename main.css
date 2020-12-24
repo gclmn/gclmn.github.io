@@ -3,7 +3,7 @@ html {
   font-size: 20px;
   font-family: 'Karla', sans-serif;
   line-height: 1.5em;
-  margin-top: -0.5em;
+  margin-top: 0em;
   padding: 0;
   color: white;
   box-sizing: content-box;
@@ -11,7 +11,7 @@ html {
 }
 
 h1 {
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   font-size: 30px;
   font-family: 'Karla', sans-serif;
   color: #31302A;
@@ -33,7 +33,7 @@ h1 {
 #about-me {
   width: 20%;
   right: 20%;
-  margin-left: -100%;
+  margin-left: 0%;
   padding: 50px;
   padding-right: 90px;
   margin-right: 50px;
@@ -62,7 +62,7 @@ h1 {
 #main-intro {
   width: 50%;
   padding-top: 10%;
-  margin-right: -90px;
+  margin-right: -40%;
 }
 
 #main-intro b {
