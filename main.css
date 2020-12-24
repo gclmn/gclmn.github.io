@@ -55,7 +55,8 @@ h1 {
 
 #main-intro {
   width: 70%;
-  padding-top: 30% 
+  padding-top: 30%;
+  padding-left: 40%;
 }
 #main-intro b {
   color: #C96903;
