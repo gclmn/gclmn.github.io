@@ -33,7 +33,7 @@ h1 {
 #about-me {
   width: 250px;
   right: 250px;
-  margin-left: -100%;
+  margin-left: -90%;
   padding: 50px;
   padding-right: 100px;
   margin-right: 50px;
@@ -61,7 +61,6 @@ h1 {
 
 #main-intro {
   width: 200px;
-  padding: 50px;
   margin-right: -100;
   padding-top: 30%;
 }
@@ -75,8 +74,8 @@ h1 {
 }
 
 #right {
-  width: 0px;
-  padding-right: 0px;
+  width: 100px;
+  padding-right: -100%;
 }
 
 
