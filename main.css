@@ -34,7 +34,7 @@ h1 {
   width: 250px;
   right: 250px;
   margin-left: -100%;
-  padding: 20px;
+  padding: 50px;
   padding-right: 90px;
   margin-right: 50px;
   background-color: #31302A;
@@ -60,8 +60,8 @@ h1 {
 }
 
 #main-intro {
-  width: 100%;
-  margin-right: -100;
+  width: 80%;
+  padding-right: -150;
   padding-top: 30%;
 }
 
@@ -75,7 +75,7 @@ h1 {
 
 #right {
   width: 100px;
-  padding-right: -100%;
+  padding-right: -250%;
 }
 
 
