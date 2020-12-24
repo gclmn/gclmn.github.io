@@ -27,13 +27,13 @@ h1 {
 
 #intro .column {
   position: flex;
-  flex-direction: row
+  flex-direction: inline
 }
 
 #about-me {
   width: 200px;
   right: 200px;
-  margin-left: -60%;
+  margin-left: -40%;
   background-color: #31302A;
   border-left: 10px solid #31302A;
   border-top: 20px solid #31302A;
@@ -41,7 +41,7 @@ h1 {
 }
 
 #about-me p {
-  font-size: 15px;
+  font-size: 13px;
   line-height: 1.3em;
   font-family: 'Karla', sans-serif;
   color: #F2EEDD;
