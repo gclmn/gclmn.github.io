@@ -62,15 +62,16 @@ h1 {
   width: 80%;
   padding: 50px;
   margin-right: 40%;
-  top: 50%;
 }
 
 #main-intro b {
   color: #C96903;
+  top: 40%;
 }
 
 #main-intro p {
   color: #31302A;
+  top: 50%;
 }
 
 #right {
