@@ -62,13 +62,13 @@ h1 {
   width: 80%;
 }
 
-#main-intro {
+#main-intro b {
   color: #C96903;
 }
 
 #right {
-  width: 150px;
-  margin-right: -150px;
+  width: 50px;
+  margin-right: -50px;
 }
 
 
