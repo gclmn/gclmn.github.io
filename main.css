@@ -28,19 +28,21 @@ h1 {
 }
 
 #about-me {
-  height: 100%;
   width: 200px;
   right: 200px;
-  margin-left: -50%;
+  margin-left: -100%;
   padding: 50px;
   background-color: #31302A;
 }
 
 #main-intro {
-  width: 400px;
-  margin-right: -400px;
+  width: 100%;
 }
 
+#right {
+  width: 150px;
+  margin-right: -150px;
+}
 
 
 /*.column {
