@@ -33,7 +33,7 @@ h1 {
 #about-me {
   width: 200px;
   right: 200px;
-  margin-left: -400%;
+  margin-left: -100%;
   padding: 50px;
   padding-right: 90px;
   margin-right: 50px;
@@ -45,9 +45,11 @@ h1 {
 
 #about-me p {
   font-size: 15px;
+  line-height: 1em;
   font-family: 'Karla', sans-serif;
   color: #F2EEDD;
   font-weight: lighter;
+  text-align: center;
 }
 
 
@@ -56,13 +58,13 @@ h1 {
   border-color: black;
   border-width: 1px;
   padding: 0;
-  margin: 20px;
+  margin: 15px;
 }
 
 #main-intro {
   width: 400px;
   padding-top: 10%;
-  margin-right: -200px;
+  margin-right: -50%;
 }
 
 #main-intro b {
