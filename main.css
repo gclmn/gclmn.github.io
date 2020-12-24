@@ -33,8 +33,9 @@ h1 {
 #about-me {
   width: 250px;
   right: 250px;
-  margin-left: -100%;
+  margin-left: -250%;
   padding: 50px;
+  padding-right: 100px;
   margin-right: 50px;
   background-color: #31302A;
   border-left: 10px solid #31302A;
@@ -62,7 +63,7 @@ h1 {
   width: 80%;
   padding: 50px;
   margin-right: 40%;
-  padding-top: 40%;
+  padding-top: 30%;
 }
 
 #main-intro b {
