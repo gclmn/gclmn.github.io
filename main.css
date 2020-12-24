@@ -9,7 +9,6 @@ html {
   box-sizing: content-box;
   background-color: #F2EEDD;
 }
-
 h1 {
   letter-spacing: 1px;
   font-size: 30px;
@@ -24,22 +23,20 @@ h1 {
   float: left;
   overflow: hidden;
 }
-
 #intro .column {
-  position: flex;
-  flex-direction: inline
+  position: relative;
+  float: left;
 }
 
 #about-me {
   width: 200px;
   right: 200px;
-  margin-left: -40%;
+  margin-left: -100%;
   background-color: #31302A;
   border-left: 10px solid #31302A;
   border-top: 20px solid #31302A;
   border-right: 20px solid #7AA09A;
 }
-
 #about-me p {
   font-size: 13px;
   line-height: 1.3em;
@@ -48,8 +45,6 @@ h1 {
   font-weight: lighter;
   text-align: center;
 }
-
-
 #profile-pic {
   border-style: solid;
   border-color: black;
@@ -59,21 +54,18 @@ h1 {
 }
 
 #main-intro {
-  width: 400px;
-  padding-top: 10%;
-  margin-right: -50%;
+  width: 100%;
 }
-
 #main-intro b {
   color: #C96903;
 }
-
 #main-intro p {
   color: #31302A;
 }
 
 #right {
   width: 10px;
+  margin-right:-150%;
 }
 
 
