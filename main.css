@@ -62,7 +62,7 @@ h1 {
 #main-intro {
   width: 200px;
   padding: 50px;
-  margin-right: 0;
+  margin-right: -100;
   padding-top: 30%;
 }
 
@@ -75,8 +75,8 @@ h1 {
 }
 
 #right {
-  width: 50px;
-  padding-right: -200px;
+  width: 0px;
+  padding-right: 0px;
 }
 
 
