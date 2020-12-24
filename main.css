@@ -31,8 +31,8 @@ h1 {
 }
 
 #about-me {
-  width: 20%;
-  right: 20%;
+  width: 200px;
+  right: 200px;
   margin-left: 0%;
   padding: 50px;
   padding-right: 90px;
@@ -44,7 +44,7 @@ h1 {
 }
 
 #about-me p {
-  font-size: 10px;
+  font-size: 15px;
   font-family: 'Karla', sans-serif;
   color: #F2EEDD;
   font-weight: lighter;
@@ -60,9 +60,9 @@ h1 {
 }
 
 #main-intro {
-  width: 50%;
+  width: 400px;
   padding-top: 10%;
-  margin-right: -40%;
+  margin-right: -400px;
 }
 
 #main-intro b {
