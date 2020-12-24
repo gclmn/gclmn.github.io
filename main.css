@@ -19,8 +19,7 @@ h1 {
 
 #intro {
   padding-left: 200px;
-  padding-right: 400px;
-  float: left;
+  padding-right: 150px;
   overflow: hidden;
 }
 #intro .column {
