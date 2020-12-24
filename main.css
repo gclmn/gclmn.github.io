@@ -33,14 +33,14 @@ h1 {
 #about-me {
   width: 250px;
   right: 250px;
-  margin-left: -90%;
-  padding: 50px;
-  padding-right: 100px;
+  margin-left: -100%;
+  padding: 20px;
+  padding-right: 90px;
   margin-right: 50px;
   background-color: #31302A;
   border-left: 10px solid #31302A;
   border-top: 20px solid #31302A;
-  border-right: 10px solid #7AA09A;
+  border-right: 20px solid #7AA09A;
 }
 
 #about-me p {
