@@ -3,7 +3,8 @@ html {
   font-size: 20px;
   font-family: 'Karla', sans-serif;
   line-height: 1.5em;
-  margin: 1em;
+  margin: 0;
+  padding: 0;
   color: white;
   box-sizing: content-box;
   background-color: #F2EEDD;
@@ -20,6 +21,8 @@ h1 {
 #intro {
   padding-left: 200px;
   padding-right: 400px;
+  float: left;
+  overflow: hidden;
 }
 
 #intro .column {
@@ -57,6 +60,10 @@ h1 {
 
 #main-intro {
   width: 100%;
+}
+
+#main-intro {
+  color: #C96903;
 }
 
 #right {
