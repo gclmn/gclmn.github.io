@@ -64,14 +64,14 @@ h1 {
 }
 #main-intro p {
   color: #31302A;
-}*/
+}
 
 #right {
   width: 150px;
   margin-right: -150px;
 }
 
-.column {
+/*.column {
   display: table-cell;
   background-color: #31302A;
   align-items: right; 
@@ -84,4 +84,4 @@ h1 {
   border-style: solid;
   border-color: black;
   border-width: 1px;
-}
+}*/
