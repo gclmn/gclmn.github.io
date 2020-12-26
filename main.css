@@ -34,7 +34,7 @@ h1 {
   right: 200px;
   margin-left: -100%;
   background-color: #31302A;
-  /*border-left: 10px solid #31302A;
+  border-left: 10px solid #31302A;
   border-top: 20px solid #31302A;
   border-right: 20px solid #7AA09A;
 }
@@ -51,13 +51,13 @@ h1 {
   border-color: black;
   border-width: 1px;
   padding: 0;
-  margin: 10px;*/
+  margin: 10px;
 }
 
 #main-intro {
   width: 100%;
   padding-top: 60%;
-}/*
+}
 #main-intro b {
   color: #C96903;
 }
@@ -70,7 +70,7 @@ h1 {
   margin-right: -150px;
 }
 
-/*.column {
+.column {
   display: table-cell;
   background-color: #31302A;
   align-items: right; 
@@ -83,4 +83,4 @@ h1 {
   border-style: solid;
   border-color: black;
   border-width: 1px;
-}*/
+}
