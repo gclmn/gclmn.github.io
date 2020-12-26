@@ -9,7 +9,7 @@ html {
   margin: -0.5em;
   padding: 0;
   color: white;
-  box-sizing: border-box;
+  box-sizing: content-box;
   background-color: #F2EEDD;
 }
 h1 {
