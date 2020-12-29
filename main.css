@@ -22,13 +22,14 @@ h1 {
 
 #intro .column {
   float: left;
-  width: 50%;
 }
 
-#float .row {
-  content: "";
-  display: table;
-  clear: both;
+.column #about-me {
+  width: 25%;
+}
+
+.column #right {
+  width: 50%;
 }
 
 #about-me {
