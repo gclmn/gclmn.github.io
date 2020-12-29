@@ -23,7 +23,7 @@ h1 {
 #intro {
   display: flex;
   flex-direction: row;
-  align-items: left;
+  align-items: center;
   height: 100%;
 }
 
