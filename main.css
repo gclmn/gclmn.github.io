@@ -20,6 +20,12 @@ h1 {
   text-align: left;
 }
 
+#intro {
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+}
+
 .column {
   float: left;
   padding: 10px;
