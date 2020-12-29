@@ -9,7 +9,7 @@ html {
   margin: -0.5em;
   padding: 0;
   color: white;
-  box-sizing: content-box;
+  box-sizing: border-box;
   background-color: #F2EEDD;
 }
 h1 {
@@ -22,6 +22,7 @@ h1 {
 
 .column {
   float: left;
+  padding: 10px;
 }
 
 .column #about-me {
@@ -30,6 +31,12 @@ h1 {
 
 .column #right {
   width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 #about-me {
