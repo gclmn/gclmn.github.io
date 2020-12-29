@@ -20,13 +20,15 @@ h1 {
   text-align: left;
 }
 
-#intro {
-  padding-left: 200px;
-  padding-right: 150px;
-}
 #intro .column {
   float: left;
   width: 50%;
+}
+
+#float .row {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 #about-me {
