@@ -38,7 +38,9 @@ h1 {
 }
 
 .column #main-intro {
-  width: 50%;
+  width: 75%;
+  display: flex;
+  align-content: left;
 }
 
 .row:after {
